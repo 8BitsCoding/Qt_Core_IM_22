@@ -1,0 +1,4 @@
+수 11 20 23:37:24 2019 - Info: This is a info messages in %2 file: C:\Users\taehy\source\repos\Qt_Core_IM_22\Qt_Core_IM_22\main.cpp line: 52
+수 11 20 23:37:24 2019 - Debug: This is a debug messages in %2 file: C:\Users\taehy\source\repos\Qt_Core_IM_22\Qt_Core_IM_22\main.cpp line: 53
+수 11 20 23:37:24 2019 - Warning: This is a Warning messages in %2 file: C:\Users\taehy\source\repos\Qt_Core_IM_22\Qt_Core_IM_22\main.cpp line: 54
+수 11 20 23:37:24 2019 - Critical: This is a critical messages in %2 file: C:\Users\taehy\source\repos\Qt_Core_IM_22\Qt_Core_IM_22\main.cpp line: 55
